@@ -1,0 +1,23 @@
+baseURL = "http://example.org/"
+languageCode = "ru"
+title = "Блог компании STROKE"
+theme = "paper"
+
+disqusShortname = 'Blog'
+[params]
+  # color style
+  color = 'light'
+
+  # header social icons
+  instagram = ""
+  twitter = ""
+  linkedin = ""
+
+  avatar = "carloscashier@gmail.com"
+  name = "Блог компании STROKE"
+  bio = "Наша новостная компания - это динамичная и авторитетная информационная платформа, поставляющая актуальные новости со всего мира. Мы стремимся предоставить нашим читателям объективную и достоверную информацию, основанную на тщательном расследовании и проверке фактов."
+
+  # misc
+  disableHLJS = true
+  monoDarkIcon = true
+  math = true
